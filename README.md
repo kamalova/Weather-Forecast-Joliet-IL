@@ -4,11 +4,11 @@
 ## **Weather Forecast Joliet, IL**
 **Author: Nurgul Kurbanali kyzy** <p>
 #### Table of Contents
-* [Project Overview]()
-* [Data Understanding]()
-* [Model Analysis]()
-* [Conclusion]()
-* [For More Information](https://github.com/kamalova/Rice_Leaf_Disease_Img_Classification_DL#for-more-information)
+* [Project Overview](https://github.com/kamalova/weather-forecast-joliet-il/blob/main/README.md#project-overview)
+* [Data Understanding](https://github.com/kamalova/weather-forecast-joliet-il/blob/main/README.md#data-understanding)
+* [Model Analysis](https://github.com/kamalova/weather-forecast-joliet-il/blob/main/README.md#model-analysis)
+* [Conclusion](https://github.com/kamalova/weather-forecast-joliet-il/blob/main/README.md#conclusion)
+* [For More Information](https://github.com/kamalova/weather-forecast-joliet-il/blob/main/README.md#for-more-information)
 
 ###  Project Overview 
 The goal of this project was to analyze historical weather data and develop an ML model to predict the weather for Joliet, IL in 2024. The project involved data acquisition, data cleaning, exploratory data analysis, feature selection, model building, and evaluation.
