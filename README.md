@@ -2,7 +2,7 @@
 
 
 ## **Weather Forecast Joliet, IL**
-**Dataset given by: Hasan Almawi, ML Manager** <p>
+**Dataset given by: EarthCam** <p>
 **Project done by: Nurgul Kurbanali kyzy** <p>
 #### Table of Contents
 * [Project Overview](https://github.com/kamalova/weather-forecast-joliet-il/blob/main/README.md#project-overview)
