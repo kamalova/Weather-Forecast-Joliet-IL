@@ -23,9 +23,8 @@ The initial dataset was composed of 7324 rows and 27 columns, offering a substan
 A machine learning solution was developed using the ARIMA (Autoregressive Integrated Moving Average) model. The model utilized day, month, and year as input features and predicted the temperature as the target variable. Model performance was evaluated using metrics such as mean squared error (MSE) and root mean squared error (RMSE).
 
 ### Conclusion
-In this project, a simple ARIMA model was developed to predict the weather for Joliet, IL in 2024. The model achieved a moderate level of accuracy, marking the first step in weather prediction for the given location. The analysis provided valuable insights into historical weather patterns and served as a quick exploration of the dataset.
-
-To further improve the accuracy of weather predictions, more comprehensive analysis and advanced machine learning models can be explored. By delving deeper into the data and applying advanced techniques, it is possible to achieve more accurate and reliable forecasts.
+Based on the results obtained, it is evident that the simple ARIMA model used in this project has limitations in accurately predicting the weather for Joliet, IL in 2024. Further enhancements and refinements are necessary to improve the model's performance. While ARIMA can provide a baseline, more advanced machine learning techniques offer better accuracy and can capture the complexity of weather patterns. Consideration should be given to incorporating additional variables, exploring more sophisticated modeling techniques, and leveraging advanced machine learning algorithms specifically designed for time series forecasting.
+In conclusion, this project serves as a starting point for future research and development in weather prediction for Joliet, IL. It highlights the need for more advanced modeling approaches and a deeper understanding of the underlying factors that influence weather patterns. By continually refining and expanding upon this work, more accurate and reliable weather predictions can be achieved.
 
 ### For More Information
 You can review my full analysis in my [Jupyter Notebook](https://github.com/kamalova/weather-forecast-joliet-il/blob/main/notebook.ipynb) 
