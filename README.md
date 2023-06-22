@@ -27,5 +27,7 @@ Based on the results obtained, it is evident that the simple ARIMA model used in
 In conclusion, this project serves as a starting point for future research and development in weather prediction for Joliet, IL. It highlights the need for more advanced modeling approaches and a deeper understanding of the underlying factors that influence weather patterns. By continually refining and expanding upon this work, more accurate and reliable weather predictions can be achieved.
 
 ### For More Information
-You can review my full analysis in my [Jupyter Notebook](https://github.com/kamalova/weather-forecast-joliet-il/blob/main/notebook.ipynb) 
+You can review my full analysis in my [Jupyter Notebook](https://github.com/kamalova/weather-forecast-joliet-il/blob/main/notebook.ipynb) or project [presentation](https://github.com/kamalova/Weather-Forecast-Joliet-IL/blob/main/Presentation_JolietIL.pdf).
+
+
 For any additional questions, please contact Nurgul Kurbanali kyzy at nurkamalova@gmail.com
